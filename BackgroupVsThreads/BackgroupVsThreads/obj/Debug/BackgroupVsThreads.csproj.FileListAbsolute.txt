@@ -1,0 +1,10 @@
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\bin\Debug\BackgroupVsThreads.exe.config
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\bin\Debug\BackgroupVsThreads.exe
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\bin\Debug\BackgroupVsThreads.pdb
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\obj\Debug\BackgroupVsThreads.csprojAssemblyReference.cache
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\obj\Debug\BackgroupVsThreads.Form1.resources
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\obj\Debug\BackgroupVsThreads.Properties.Resources.resources
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\obj\Debug\BackgroupVsThreads.csproj.GenerateResource.cache
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\obj\Debug\BackgroupVsThreads.csproj.CoreCompileInputs.cache
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\obj\Debug\BackgroupVsThreads.exe
+c:\users\c5195092\Source\Repos\BackgroupVsThreads\BackgroupVsThreads\obj\Debug\BackgroupVsThreads.pdb
